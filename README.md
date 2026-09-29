@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="meshpit.svg" width="180" alt="MeshPit" />
+  <img src="https://meshpit.onrender.com/icon.svg" width="180" alt="MeshPit" />
 </p>
 
 <h1 align="center">MeshPit</h1>
